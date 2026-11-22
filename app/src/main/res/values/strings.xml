@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Why I Changed</string>
+    <string name="book_title">WHY I CHANGED</string>
+    <string name="book_subtitle">मैले आफ्नो सोच किन परिवर्तन गरेँ?</string>
+    <string name="book_author">Samir Parajuli</string>
+    <string name="book_author_nepali">समीर पराजुली</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_read">Read</string>
+    <string name="nav_saved">Saved</string>
+    <string name="nav_settings">Settings</string>
+    <string name="continue_reading">अध्ययन जारी राख्नुहोस् (Continue Reading)</string>
+    <string name="explore_book">किताब अन्वेषण गर्नुहोस् (Explore Book)</string>
+    <string name="featured_quote">विशेष उद्धरण (Featured Quote)</string>
+    <string name="about_author">लेखकको बारेमा (About the Author)</string>
+    <string name="table_of_contents">विषयसूची (Table of Contents)</string>
+    <string name="search_placeholder">अध्याय, विचार वा शब्द खोज्नुहोस्...</string>
+</resources>

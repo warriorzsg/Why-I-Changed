@@ -1,0 +1,6 @@
+{
+  "name": "Why I Changed",
+  "description": "WHY I CHANGED (मैले आफ्नो सोच किन परिवर्तन गरेँ?) — Complete Nepali digital book and interactive philosophical reading app by Samir Parajuli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
